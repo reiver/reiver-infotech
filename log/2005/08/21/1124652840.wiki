@@ -2,7 +2,7 @@ wiki/1
 
 § RSS Disposition Hinting Proposal
 
-⸺ by Joe Blow
+⸺ by Charles Iliya Krempeaux
 
 ⸺ published 2005-08-21T12:34:00-07:00
 
