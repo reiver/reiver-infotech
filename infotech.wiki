@@ -23,6 +23,10 @@ wiki/1
 
 (Note that “software development” and “software engineering” are synonyms, despite some people claiming otherwise.)
 
+§§ Logs
+
+• [[log/2002/03/30/1017475200]] VanLUG Steering Committee
+
 §§ Subjects
 
 §§§ A
