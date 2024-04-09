@@ -1,0 +1,94 @@
+wiki/1
+
+§ infotech
+
+⸺ by Charles Iliya Krempeaux
+
+**infotech** is that name that encompasses things that are named:
+
+• [[computer]],
+• [[computer-hardware]],
+• [[computer-hardware-engineering]],
+• [[computer-network]],
+• [[computer-science]],
+• [[radio]],
+• [[software]],
+• [[software-development]],
+• [[software-engineering]],
+• what is called the **tech-industry** in the U.S.A, Canada, and some other places, but in other parts of the world is called the **I.T. industry**,
+• [[telecommunications]],
+• [[telephone]],
+• [[television]],
+• //etc//.
+
+(Note that “software development” and “software engineering” are synonyms, despite some people claiming otherwise.)
+
+§§ Subjects
+
+§§§ A
+
+§§§ B
+
+§§§ C
+
+• [[cryptography]]
+
+§§§ D
+
+• [[dapp]]
+
+§§§ E
+
+§§§ F
+
+• [[fediverse]]
+
+§§§ G
+
+• [[golang]]
+
+§§§ H
+
+§§§ I
+
+§§§ J
+
+§§§ K
+
+§§§ L
+
+§§§ M
+
+§§§ N
+
+§§§ O
+
+• [[onion-routing]]
+
+§§§ P
+
+• [[php]]
+
+§§§ Q
+
+§§§ R
+
+§§§ S
+
+• [[small-net]]
+
+§§§ T
+
+§§§ U
+
+§§§ V
+
+§§§ W
+
+• [[wiki]]
+
+§§§ X
+
+§§§ Y
+
+§§§ Z
