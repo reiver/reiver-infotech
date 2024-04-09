@@ -26,6 +26,7 @@ wiki/1
 §§ Logs
 
 • [[log/2002/03/30/1017475200]] VanLUG Steering Committee
+• [[log/2005/05/19/1116486000]] We Need an Alternative to URLs
 • [[log/2005/08/21/1124652840]] RSS Disposition Hinting Proposal
 
 §§ Subjects
