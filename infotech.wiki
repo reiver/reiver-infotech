@@ -56,6 +56,9 @@ wiki/1
 
 §§§ H
 
+• [[human-friendly]]
+• [[human-legible]]
+
 §§§ I
 
 §§§ J
@@ -66,6 +69,9 @@ wiki/1
 
 §§§ M
 
+• [[machine-friendly]]
+• [[machine-legible]]
+
 §§§ N
 
 §§§ O
@@ -75,6 +81,8 @@ wiki/1
 §§§ P
 
 • [[php]]
+• [[programmer-friendly]]
+• [[programmer-legible]]
 
 §§§ Q
 
