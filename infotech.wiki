@@ -92,6 +92,7 @@ wiki/1
 
 §§§ S
 
+• [[software-logging]]
 • [[small-net]]
 
 §§§ T
