@@ -38,6 +38,7 @@ wiki/1
 §§§ C
 
 • [[code-review]]
+•• [[code-review/guide]]
 • [[composition]]
 • [[cryptography]]
 
