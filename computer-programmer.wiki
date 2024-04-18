@@ -1,0 +1,12 @@
+wiki/1
+
+§ computer-programmer
+
+⸺ by Charles Iliya Krempeaux
+
+A **computer-programmer** is a [[person]] who does [[computer-programming]].
+
+If a **computer-programmer** is working at a company, they often have a title that includes:
+
+• [[software-developer]],
+• [[software-engineer]].
