@@ -40,6 +40,7 @@ wiki/1
 • [[code-review]]
 •• [[code-review/guide]]
 • [[composition]]
+• [[computer-programmer]]
 • [[cryptography]]
 
 §§§ D
