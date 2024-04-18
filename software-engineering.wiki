@@ -1,0 +1,20 @@
+wiki/1
+
+§ software-engineering
+
+⸺ by Charles Iliya Krempeaux
+
+What **software engineering** is is most easily understood by first defining what **engineering** is.
+
+❦
+
+engineering (noun): The art of managing engines.
+
+engineering (noun): The art of directing the artillery of an army.
+
+engineering (noun): Any art where one is designing and constructing.
+
+❦
+
+software engineering (noun): The art of designing and constructing [[computer-software]].
+
