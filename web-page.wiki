@@ -32,6 +32,9 @@ There are different varieties of [[html]], but — here is an example of a very 
 		</body>
 	</html>
 
+This is [[source-code]] and typically not meant to be directly read.
+Typically a [[web-browser]] would be used to //render// this [[html]] [[source-code]] into a document which is meant for a human to read.
+
 §§ See Also
 
 • [[css]]
