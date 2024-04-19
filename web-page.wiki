@@ -1,0 +1,22 @@
+wiki/1
+
+§ web-page
+
+⸺ by Charles Iliya Krempeaux
+
+A **web-page** ois a resource on the [[world-wide-web]], primarily meant to be viewed by humans using a [[web-browser]].
+**Web-Pages** are almost always in the [[html]], and usually provide [[hyper-link]]s to other **web-pages** and other resources (that are usually but not always on the [[world-wide-web]]).
+
+§§ Spellings
+
+//web-page// is also sometimes written as //webpage// and //web page//.
+
+§§ See Also
+
+• [[css]]
+• [[html]]
+• [[javascript]]
+• [[web-brower]]
+• [[web-development]]
+• [[world-wide-web]]
+• [[www]]
