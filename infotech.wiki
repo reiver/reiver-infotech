@@ -99,8 +99,6 @@ wiki/1
 
 §§§ T
 
-• [[the-web]]
-
 §§§ U
 
 • [[uuid]]
@@ -110,20 +108,10 @@ wiki/1
 
 §§§ W
 
-• [[web-application]]
-• [[web-browser]]
-• [[web-development]]
-• [[web-page]]
-• [[web-site]]
 • [[wiki]]
 • [[world-wide-web]]
-• [[www]]
 
 §§§ X
-
-• [[xhtml]]
-• [[xml]]
-• [[xul]]
 
 §§§ Y
 
