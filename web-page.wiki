@@ -4,12 +4,33 @@ wiki/1
 
 ⸺ by Charles Iliya Krempeaux
 
-A **web-page** ois a resource on the [[world-wide-web]], primarily meant to be viewed by humans using a [[web-browser]].
-**Web-Pages** are almost always in the [[html]], and usually provide [[hyper-link]]s to other **web-pages** and other resources (that are usually but not always on the [[world-wide-web]]).
+A **web-page** is a resource on the [[world-wide-web]], primarily meant to be viewed by humans using a [[web-browser]].
+**Web-Pages** are almost always (at some level) written in the [[html]], and usually provide [[hyper-link]]s to other **web-pages** and other resources (that are usually but not always on the [[world-wide-web]]).
 
 §§ Spellings
 
 //web-page// is also sometimes written as //webpage// and //web page//.
+
+§§ Example
+
+The [[source-code]] of a [[web-page]] is (at some level) written in [[html]].
+
+There are different varieties of [[html]], but — here is an example of a very very simple **web-page** written in [[html]] version 5 —
+
+	<!DOCTYPE html>
+	
+	<html>
+		<head>
+			<meta charset="utf-8" />
+			<title>Hello world!</title>
+		</head>
+		<body>
+			<h1>Hi!</h1>
+			<p>
+				How do you do?
+			</p>
+		</body>
+	</html>
 
 §§ See Also
 
