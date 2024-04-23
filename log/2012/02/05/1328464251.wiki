@@ -1,0 +1,15 @@
+wiki/1
+
+§ Alerts For New Publication By Author
+
+⸺ by Charles Iliya Krempeaux
+
+⸺ published 2012-02-05T09:50:51-08:00
+
+It would be nice if there was a tool that could alert me when new papers or articles are written by authors I've read.
+
+Webfeeds using Atom, hAtom, JSON, RSS, etc would be perfect for it, but not all authors use it unfortunately.
+
+If you look at many paper author's home-pages, hosted at Universities, you get feeling they don't have a good grasp of web technologies.
+
+I wonder if these authors would use software that exposed Atom, hAtom, JSON, RSS, etc, if it were free, open-source, and easy to use.
