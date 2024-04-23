@@ -1,0 +1,72 @@
+wiki/1
+
+§ dmoz
+
+⸺ by Charles Iliya Krempeaux
+
+**dmoz**, also known as the **Open Directory Project** or **ODP**, is an open content hierarchical web directory (similar to **Yahoo!**).
+
+§§ Names And Domains
+
+**dmoz** was originally called: **Gnuhoo**.
+But because of a [[flame-war]] mostly over at [[slashdot]], the name was later changed to **Newhoo**.
+
+When [[netscape]] bought it, it was then renamed the **Open Directory Project**, and given the domain ``directory.mozilla.org``.
+This domain was then shortened to ``dmoz.org``, which is where the current name comes from.
+
+§§ Editors
+
+From about the 1997 to the year 2000, I was an editor at **dmoz**, and went by the handle (nickname) **tnt**.
+While I was an editor at the **Open Directory Project**, work I did included:
+
+• the creation of new content,
+• approving of (or disapproving of) submutted content, and
+• searching for new content.
+
+Back when I was a editor dmoz, dmoz editors largely communicated via private forums.
+
+The dmoz editors were organized into a class-system; where some editors were more equal than others.
+
+§§ Smilies
+
+One thing that I find amusing is that there is a custom //smiley// named after me in the (private) dmoz forums.
+And in particular, name my handle (nickname).
+
+The //code// for the custom //smiley// is —
+
+	==-*
+
+And dmoz forum software would swap that code for this image:
+
+⁁ data:image/gif,GIF89a%0F%00%0F%00%B3%00%00%FF%FF%FF%FF%EB%00%FE%FE%FE%FD%FD%FD%FC%FC%FC%E1gE%C4%00%26%80%00%19%26%26%26%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00!%F9%04%09%00%00%00%00%2C%00%00%00%00%0F%00%0F%00%00%08C%00%01%08%1C(0%80%01%82%08%07%1AD%C00!B%83%02%118t(q%A2%C0%02%00*Z%2C%60%00%A3E%00%1C%0D%88%DC(%D2%C0%01%92%22ON%0Ci%12e%CB%89%25_Z%3C%20%F3%A3%CA%8F8%05%06%04%00%3B
+
+(I.e., a cartoon'ish image of a stick of **tnt** or dynamite.)
+
+I also created the images for a couple of custom //smilies//.
+In particular —
+
+I created the image for the custom //smiley// with the //code// —
+
+	<moz>
+
+Which the dmoz forum software would swap that code for this image (that I created):
+
+⁁ data:image/gif,GIF89a%17%00%0E%00%D5%FF%00%FF%FF%FF%CC%FF%FF%CC%CC%CC%CC%CC%99%CC%CCf%99%CC%99%99%CCf%99%99%99%99%99ff%CC3f%CC%00f%99%99f%99%00ff%99fff3%CC%003%99%003f%993ff3f33f%0033%9933f33333%003%003%02%00%00%00f%00%003f%0033%003%00%00%00%00%FF%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00!%F9%04%01%00%00%20%00%2C%00%00%00%00%17%00%0E%00%40%06%92%40%90pH%2C%1A%8B%0B%09%E5%F1P%40(N%86b%CA%7C%1EA%10%85%01%00%08p%01%86%C15%C2%E9%60%20M%8A%07s%A6%40%10%D7%A2%C3%01*%14%04%F4%F8%B0%01%C9%162%0AMSTM%0CE%1C%16n%1EY%0C%0CY%10%8DVz%05%17C%0E%95zE%81L%0CM%06%99B%07h%00%17%00%04%02%A5M%09qJTN%14RL%81%AFE%12%13P%18%8B%10lP%B3O%07D%0Ben%0C%1AT%8E%18%1B%14%CBE%0D%07%15%1D%1DYN%10%16%16%C0WA%00%3B
+
+(I.e., the head of the classic green Mozilla creature that was associated with Netscape.)
+
+And I also created the image for the custom //smiley// with the //code// —
+
+	:>
+
+Which the dmoz forum software would swap that code for this image (that I created):
+
+⁁ data:image/gif,GIF89a%0F%00%0F%00%D5%FF%00%FF%FF%FF%FF%C6k%FF%B8H%FF%AA%00%E5%E5%E5%DF%DF%DF%DC%92%00%DA%DA%DA%D2%D2%D2%C7%C7%C7%C2%C2%C2%B6%B6%B6%B2%B2%B2%AA%AA%AA%96b%00%92%92%92rrrnnnVVVP2%00JJJBBB%3F%3F%3F%3E%3E%3E%3A%3A%3A666222%2F%2F%2F***)))%26%26%26%1B%1B%1B%00%00%00%FF%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00!%F9%04%01%00%00!%00%2C%00%00%00%00%0F%00%0F%00%40%06t%C0%90p%18%02%19ADaF%10%08%08%0C%13%CFf%83Lf%00%9E%8Cvc%A9%0A%25%99%87x%D1%D8T(%14%EFP%CB%B6%A4%93%1B%87%3C%BB%D8d%D4%C5%C9%00%1A%91%DE%89%16%0B%05%04%05%09%0D%1F%19%16%5DIE%20%8AhxJ%1ERS%89x%19%1E%0B%93%1B%00Z%97L%01%0EY%9EDK%03%A7P%A3%97%10%13%13b%5C%8BC%16%0F%08%09%B6e%14%15%8BA%00%3B
+
+§§ Inside Jokes
+
+Other things I feel somewhat nostalgic towards are: **YKYATODPW** and the **Canadian Sekrit Forces**.
+
+They are both inside jokes known to certain ODP editors at the time.
+
+(**YKYATODPW** was an abbreviation for **"You Know You Are Addicted To ODP When**.)
