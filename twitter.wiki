@@ -1,0 +1,26 @@
+wiki/1
+
+§ Twitter
+
+⸺ by Charles Iliya Krempeaux
+
+Twitter is a micro-blogging site found at: http:/((/))twitter.com/
+
+I first joined Twitter on **March 15th, 2008**, but — had been using Twitter before that.
+I was reading content on Twitter back (I think) in 2007, due to other people on the [[videoblogging-mailing-list]] using it.
+
+I initially joined Twitter due to people I knew on the [[videoblogging-mailing-list]] using it.
+
+❦
+
+I also created what was at one time the most popular Twitter-client — [[hootsuite]].
+
+❦
+
+On Twitter, my handle (nickname) is ``@reiver``
+
+❦
+
+For a long time I was a very heavy Twitter user.
+
+Later most of my micro-blogging moved over to the [[fediverse]].
