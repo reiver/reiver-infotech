@@ -1,0 +1,21 @@
+wiki/1
+
+§ e-mail
+
+⸺ by Charles Iliya Krempeaux
+
+**E-Mail** is a messaging system and application generally used for communication between people — that is (indirectly) inspired by //mail// and //post-office system//.
+
+**E-Mail** is a copy of [[netmail]] from the **bulletin board system** (**BBS**) computer networks.
+
+**E-Mail** is one of the most popular applications on the Internet.
+
+**E-Mail** is an early (online) social-network on the Internet and is still in heavy use today.
+
+§§ Webmail
+
+Since the late 1990s and early 2000s there was a transition of people, who used **e-mail**, to use **e-mail client** with [[world-wide-web]] based front-end [[user-interface]]s — called **webmail**.
+
+While still very popular, **webmail** has declined a bit, as **e-mail** applications (without [[world-wide-web]] based front-end [[user-interface]]s) for mobile-phones have also become popular.
+
+
